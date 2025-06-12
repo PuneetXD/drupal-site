@@ -885,3 +885,4 @@ $databases['default']['default'] = array (
 );
 $settings['config_sync_directory'] = 'sites/default/files/config_M9g0cloaLRbe039jSGgBCNS5cM1ofW9IhkJHzAOU2l2NfUSS_9VCFN0A3UqSWM0iClUf0-veTA/sync';
 $config['system.logging']['error_level'] = 'verbose';
+$settings['file_private_path'] = '../privatefiles';
